@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">🌌✨ Welcome to My Neon Anime Universe ✨🌌</h1>
 
 <p align="center">
@@ -100,4 +99,3 @@
 ---
 
 <p align="center">🌸 *"Code is my weapon, anime is my soul."* 🌸</p>
-```
