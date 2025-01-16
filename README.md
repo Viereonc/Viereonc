@@ -29,6 +29,16 @@
 
 ---
 
+<h2 align="center">🏅 GitHub Achievements 🏅</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VeinVoid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="github-achievements">
+</p>
+
+<p align="center">*Celebrating every milestone in style.*</p>
+
+---
+
 <h2 align="center">🚀 My Projects 🚀</h2>
 
 <table align="center">
@@ -99,3 +109,4 @@
 ---
 
 <p align="center">🌸 *"Code is my weapon, anime is my soul."* 🌸</p>
+```
