@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/l3vRlTSyOGX5UlE8k/giphy.gif" alt="neon-anime-gif" width="300">
 </p>
 
-
 ---
 
 <h2 align="center">💫 About Me 💫</h2>
